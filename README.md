@@ -1,5 +1,5 @@
 ## Abibous
-![capa.](/image/Markdown-mark.svg "This is a sample image.")
+![capa.]([/image/Markdown-mark.svg "This is a sample image.](https://github.com/Abibous/Abibous/blob/e1e343327f78ce128063fb64d0a436cfdd16b1f1/Daniel%20Barros.png)
 
 <!--
 **Abibous/Abibous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
