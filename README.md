@@ -4,7 +4,7 @@
 
 ## Me conheça um pouco melhor
 
-Adquirindo conhecimento na área de desenvolvimento de sistemas e aprimorando habilidades artísticas de ilustração no papel e artes digitais. Começo projetos pensando no que posso assimilar durante o processo, e prossigo com uma mente nova e mais agitada. Gosto de expressar meus desejos e vontades através de todas as minhas habilidades, nunca deixando de lado meu aspecto artístico, mas também expresso o sentimento de realização ao aprender algo novo]
+Adquirindo conhecimento na área de desenvolvimento de sistemas e aprimorando habilidades artísticas de ilustração no papel e artes digitais. Começo projetos pensando no que posso assimilar durante o processo, e prossigo com uma mente nova e mais agitada. Gosto de expressar meus desejos e vontades através de todas as minhas habilidades, nunca deixando de lado meu aspecto artístico, mas também expresso o sentimento de realização ao aprender algo novo.
 
 E sou fascinado pelo Homem-Aranha!
 
