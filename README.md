@@ -1,6 +1,16 @@
 ## Abibous
 ![capa.](https://github.com/Abibous/Abibous/blob/e1e343327f78ce128063fb64d0a436cfdd16b1f1/Daniel%20Barros.png)
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abibous&hide=html&layout=compact&theme=buefy" />  
+
+## Me conheça um pouco melhor
+
+[ Adquirindo conhecimento na área de desenvolvimento de sistemas e aprimorando habilidades artísticas de ilustração no papel e artes digitais. Começo projetos pensando no que posso assimilar durante o processo, e prossigo com uma mente nova e mais agitada. Gosto de expressar meus desejos e vontades através de todas as minhas habilidades, nunca deixando de lado meu aspecto artístico, mas também expresso o sentimento de realização ao aprender algo novo ]
+
+[ E sou fascinado pelo Homem-Aranha!]
+
+
+
 <!--
 **Abibous/Abibous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
